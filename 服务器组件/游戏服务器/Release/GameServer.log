@@ -1,0 +1,454 @@
+﻿生成启动时间为 2016/7/29 18:55:21。
+     1>项目“E:\闲来\闲来服务器\闲来服务器\系统模块\服务器组件\游戏服务器\GameServer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\GameServer.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Stdafx.cpp
+         Stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\GameServer.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt AttemperEngineSink.cpp DBCorrespondManager.cpp DataBaseEngineSink.cpp DistributeManager.cpp GameServer.cpp GameServerDlg.cpp InitParameter.cpp SensitiveWordsFilter.cpp ServerListManager.cpp ServiceUnits.cpp StockManager.cpp TableFrame.cpp
+         AttemperEngineSink.cpp
+     1>AttemperEngineSink.cpp(272): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(347): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(859): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(887): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(1642): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(1656): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(4111): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(4131): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(4148): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(4442): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(4850): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(5864): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(5866): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(5884): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>AttemperEngineSink.cpp(5886): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+         DBCorrespondManager.cpp
+         DataBaseEngineSink.cpp
+     1>DataBaseEngineSink.cpp(406): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(471): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(529): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(585): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(682): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(1180): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(1236): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(1293): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(1351): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(1486): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(1649): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(1797): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(1886): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>DataBaseEngineSink.cpp(2085): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(227): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(212): 编译类 模板 成员函数“bool CTempldateHelper<IModeluInterface>::CreateInstance(void)”时
+                 with
+                 [
+                     IModeluInterface=IDataBase
+                 ]
+                 DataBaseEngineSink.cpp(88): 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IModeluInterface>::CreateInstance(void)”的引用
+                 with
+                 [
+                     IModeluInterface=IDataBase
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\utility(26): 参见对正在编译的函数 模板 实例化“void std::swap<char>(_Ty &,_Ty &)”的引用
+                 with
+                 [
+                     _Ty=char
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(3414): 参见对正在编译的函数 模板 实例化“void std::iter_swap<_RanIt,_RanIt>(_FwdIt1,_FwdIt2)”的引用
+                 with
+                 [
+                     _RanIt=char *,
+                     _FwdIt1=char *,
+                     _FwdIt2=char *
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(3428): 参见对正在编译的函数 模板 实例化“void std::_Rotate<_RanIt,std::iterator_traits<_Iter>::difference_type,char>(_RanIt,_RanIt,_RanIt,_Diff *,_Ty *)”的引用
+                 with
+                 [
+                     _RanIt=char *,
+                     _Iter=char *,
+                     _Diff=std::iterator_traits<char *>::difference_type,
+                     _Ty=char
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(3438): 参见对正在编译的函数 模板 实例化“void std::_Rotate<_Iter>(_RanIt,_RanIt,_RanIt,std::random_access_iterator_tag)”的引用
+                 with
+                 [
+                     _Iter=char *,
+                     _RanIt=char *
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1348): 参见对正在编译的函数 模板 实例化“_FwdIt std::rotate<char*>(_FwdIt,_FwdIt,_FwdIt)”的引用
+                 with
+                 [
+                     _FwdIt=char *
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1261): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::_Insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter,std::forward_iterator_tag)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1261): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::_Insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter,std::forward_iterator_tag)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1236): 参见对正在编译的函数 模板 实例化“std::_Vector_iterator<_Myvec> std::vector<_Ty>::insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1236): 参见对正在编译的函数 模板 实例化“std::_Vector_iterator<_Myvec> std::vector<_Ty>::insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+                 e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\datastream.h(97): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::assign<std::_Vector_iterator<_Myvec>>(_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+                 e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\datastream.h(97): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::assign<std::_Vector_iterator<_Myvec>>(_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(235): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(243): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(249): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(254): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+         DistributeManager.cpp
+         GameServer.cpp
+         GameServerDlg.cpp
+     1>GameServerDlg.cpp(254): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>GameServerDlg.cpp(303): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>GameServerDlg.cpp(355): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(227): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(212): 编译类 模板 成员函数“bool CTempldateHelper<IModeluInterface>::CreateInstance(void)”时
+                 with
+                 [
+                     IModeluInterface=IGameServiceManager
+                 ]
+                 GameServerDlg.cpp(453): 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IModeluInterface>::CreateInstance(void)”的引用
+                 with
+                 [
+                     IModeluInterface=IGameServiceManager
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\utility(26): 参见对正在编译的函数 模板 实例化“void std::swap<char>(_Ty &,_Ty &)”的引用
+                 with
+                 [
+                     _Ty=char
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(3414): 参见对正在编译的函数 模板 实例化“void std::iter_swap<_RanIt,_RanIt>(_FwdIt1,_FwdIt2)”的引用
+                 with
+                 [
+                     _RanIt=char *,
+                     _FwdIt1=char *,
+                     _FwdIt2=char *
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(3428): 参见对正在编译的函数 模板 实例化“void std::_Rotate<_RanIt,std::iterator_traits<_Iter>::difference_type,char>(_RanIt,_RanIt,_RanIt,_Diff *,_Ty *)”的引用
+                 with
+                 [
+                     _RanIt=char *,
+                     _Iter=char *,
+                     _Diff=std::iterator_traits<char *>::difference_type,
+                     _Ty=char
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(3438): 参见对正在编译的函数 模板 实例化“void std::_Rotate<_Iter>(_RanIt,_RanIt,_RanIt,std::random_access_iterator_tag)”的引用
+                 with
+                 [
+                     _Iter=char *,
+                     _RanIt=char *
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1348): 参见对正在编译的函数 模板 实例化“_FwdIt std::rotate<char*>(_FwdIt,_FwdIt,_FwdIt)”的引用
+                 with
+                 [
+                     _FwdIt=char *
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1261): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::_Insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter,std::forward_iterator_tag)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1261): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::_Insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter,std::forward_iterator_tag)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1236): 参见对正在编译的函数 模板 实例化“std::_Vector_iterator<_Myvec> std::vector<_Ty>::insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1236): 参见对正在编译的函数 模板 实例化“std::_Vector_iterator<_Myvec> std::vector<_Ty>::insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+                 e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\datastream.h(97): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::assign<std::_Vector_iterator<_Myvec>>(_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+                 e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\datastream.h(97): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::assign<std::_Vector_iterator<_Myvec>>(_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(235): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(243): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(249): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(254): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+         InitParameter.cpp
+     1>InitParameter.cpp(59): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+         SensitiveWordsFilter.cpp
+         ServerListManager.cpp
+         ServiceUnits.cpp
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(227): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(212): 编译类 模板 成员函数“bool CTempldateHelper<IModeluInterface>::CreateInstance(void)”时
+                 with
+                 [
+                     IModeluInterface=IDataBase
+                 ]
+                 ServiceUnits.cpp(571): 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IModeluInterface>::CreateInstance(void)”的引用
+                 with
+                 [
+                     IModeluInterface=IDataBase
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\utility(26): 参见对正在编译的函数 模板 实例化“void std::swap<char>(_Ty &,_Ty &)”的引用
+                 with
+                 [
+                     _Ty=char
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(3414): 参见对正在编译的函数 模板 实例化“void std::iter_swap<_RanIt,_RanIt>(_FwdIt1,_FwdIt2)”的引用
+                 with
+                 [
+                     _RanIt=char *,
+                     _FwdIt1=char *,
+                     _FwdIt2=char *
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(3428): 参见对正在编译的函数 模板 实例化“void std::_Rotate<_RanIt,std::iterator_traits<_Iter>::difference_type,char>(_RanIt,_RanIt,_RanIt,_Diff *,_Ty *)”的引用
+                 with
+                 [
+                     _RanIt=char *,
+                     _Iter=char *,
+                     _Diff=std::iterator_traits<char *>::difference_type,
+                     _Ty=char
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(3438): 参见对正在编译的函数 模板 实例化“void std::_Rotate<_Iter>(_RanIt,_RanIt,_RanIt,std::random_access_iterator_tag)”的引用
+                 with
+                 [
+                     _Iter=char *,
+                     _RanIt=char *
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1348): 参见对正在编译的函数 模板 实例化“_FwdIt std::rotate<char*>(_FwdIt,_FwdIt,_FwdIt)”的引用
+                 with
+                 [
+                     _FwdIt=char *
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1261): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::_Insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter,std::forward_iterator_tag)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1261): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::_Insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter,std::forward_iterator_tag)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1236): 参见对正在编译的函数 模板 实例化“std::_Vector_iterator<_Myvec> std::vector<_Ty>::insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector(1236): 参见对正在编译的函数 模板 实例化“std::_Vector_iterator<_Myvec> std::vector<_Ty>::insert<_Iter>(std::_Vector_const_iterator<_Myvec>,_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Ty=char,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+                 e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\datastream.h(97): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::assign<std::_Vector_iterator<_Myvec>>(_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+                 e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\datastream.h(97): 参见对正在编译的函数 模板 实例化“void std::vector<_Ty>::assign<std::_Vector_iterator<_Myvec>>(_Iter,_Iter)”的引用
+                 with
+                 [
+                     _Ty=char,
+                     _Myvec=std::_Vector_val<std::_Simple_types<char>>,
+                     _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+                 ]
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(235): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(243): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(249): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>e:\闲来\闲来服务器\闲来服务器\系统模块\全局定义\Module.h(254): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+         StockManager.cpp
+         TableFrame.cpp
+     1>TableFrame.cpp(365): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(369): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(489): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(504): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(523): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(2165): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(2193): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(2195): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(2197): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(2513): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(2526): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(2542): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+     1>TableFrame.cpp(2555): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : 参见“_snprintf”的声明
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"../../../运行/Release/Ansi/GameServer.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"../../../运行/Release/Ansi/GameServer.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"../../../运行/Release/Ansi/GameServer.lib" /MACHINE:X86 /SAFESEH Release\GameServer.res
+         Release\AttemperEngineSink.obj
+         Release\DataBaseEngineSink.obj
+         Release\DBCorrespondManager.obj
+         Release\DistributeManager.obj
+         Release\GameServer.obj
+         Release\GameServerDlg.obj
+         Release\InitParameter.obj
+         Release\SensitiveWordsFilter.obj
+         Release\ServerListManager.obj
+         Release\ServiceUnits.obj
+         Release\Stdafx.obj
+         Release\StockManager.obj
+         Release\TableFrame.obj
+         "E:\闲来\闲来服务器\闲来服务器\系统模块\链接库\Ansi\ServiceCore.lib"
+         "E:\闲来\闲来服务器\闲来服务器\系统模块\链接库\Ansi\ModuleManager.lib"
+         "E:\闲来\闲来服务器\闲来服务器\系统模块\链接库\Ansi\GameService.lib"
+         GameServer.vcxproj -> E:\闲来\闲来服务器\闲来服务器\系统模块\服务器组件\游戏服务器\../../../运行/Release/Ansi/GameServer.exe
+     1>已完成生成项目“E:\闲来\闲来服务器\闲来服务器\系统模块\服务器组件\游戏服务器\GameServer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.76

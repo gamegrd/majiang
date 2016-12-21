@@ -1,0 +1,18 @@
+﻿生成启动时间为 2016/7/22 14:00:11。
+     1>项目“E:\闲来\闲来服务器\闲来服务器\系统模块\服务器组件\协调服务器\Correspond.vcxproj”在节点 4 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"../../../运行/Release/Ansi/Correspond.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"../../../运行/Release/Ansi/Correspond.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"../../../运行/Release/Ansi/Correspond.lib" /MACHINE:X86 /SAFESEH Release\Correspond.res
+         Release\AttemperEngineSink.obj
+         Release\CorrespondServer.obj
+         Release\CorrespondServerDlg.obj
+         Release\GlobalInfoManager.obj
+         Release\InitParameter.obj
+         Release\ServiceUnits.obj
+         Release\Stdafx.obj
+         "E:\闲来\闲来服务器\闲来服务器\系统模块\链接库\Ansi\ServiceCore.lib"
+         Correspond.vcxproj -> E:\闲来\闲来服务器\闲来服务器\系统模块\服务器组件\协调服务器\../../../运行/Release/Ansi/Correspond.exe
+     1>已完成生成项目“E:\闲来\闲来服务器\闲来服务器\系统模块\服务器组件\协调服务器\Correspond.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.91
